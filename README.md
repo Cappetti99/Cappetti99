@@ -19,7 +19,5 @@ I am a computer engineer with a bachelor's degree, currently pursuing a master's
 - Network Security
 
 ### Let's Connect
-Feel free to reach out to me on [LinkedIn](#) or check out my projects on GitHub!
-
 Always open to new challenges and passionate about continuous learning.
 
