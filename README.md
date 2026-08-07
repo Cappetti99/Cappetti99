@@ -130,14 +130,3 @@ Paper implementation: dynamic critical path ranking, **game-theoretic stable mat
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Cappetti99&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7&hide=issues" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cappetti99&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9A7&layout=compact&langs_count=8" />
-
-</div>
