@@ -1,28 +1,149 @@
-# 💫 About Me:
-🌱 I am a computer engineer with a bachelor's degree, currently pursuing a master's degree in Computer Engineering with a specialization in Advanced Computing. Throughout my academic journey, I have developed skills in various programming languages and technologies.<br>
+<div align="center">
 
-🎓 My master's thesis focuses on football player identification from broadcast video: detection, multi-object tracking, pitch localization, jersey number OCR, visual ReID, and Hungarian assignment to reconstruct player identities over time.<br>
-🔗 Project repo: [football-player-identification](https://github.com/Cappetti99/football-player-identification)<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,50:2E5FA3,100:00C9A7&height=200&section=header&text=Lorenzo%20Cappetti&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Vision%20%26%20Machine%20Learning%20Engineer&descAlignY=55&descSize=18" width="100%" />
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Deep+Learning+%26+Computer+Vision;Multi-Object+Tracking+%26+Re-Identification;GPU-Accelerated+Computing+with+CUDA;Turning+broadcast+video+into+data" alt="Typing SVG" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lollocappero/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cappettiLorenzo@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-cappetti-59231a357/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cappettilorenzo@gmail.com)
+[![Location](https://img.shields.io/badge/Florence,_Italy-008C45?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Status](https://img.shields.io/badge/Open_to_opportunities-FF6B00?style=for-the-badge&logo=briefcase&logoColor=white)](#)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Cappetti99&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Cappetti99&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cappetti99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Cappetti99&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Cappetti99&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/paypalme/Cappetti99) 
+## 🌟 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```python
+class LorenzoCappetti:
+    def __init__(self):
+        self.role     = "Computer Vision & ML Engineer"
+        self.education = "MSc Computer Engineering @ University of Florence"
+        self.track     = "Advanced Computing"
+        self.focus     = ["Deep Learning", "Multi-Object Tracking", "CUDA"]
+        self.thesis    = "Football player identification from broadcast video"
+        self.fun_fact  = "I taught a computer to tell footballers apart 🎯"
+```
+
+🎓 **MSc thesis** — Football player identification from broadcast video: detection, multi-object tracking, pitch localization via homography, jersey number OCR, visual ReID and Hungarian assignment to reconstruct player identities over time. Evaluated on the **SoccerNet-GSR** benchmark.
+
+⚡ I like pipelines that are both **accurate and fast** — half my work is making models see, the other half is making them run.
+
+---
+
+## 🔬 Selected Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚽ [Football Player Identification](https://github.com/Cappetti99/football-player-identification)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+Full **game state reconstruction** from broadcast footage — YOLO detection, ByteTrack tracking, multi-backend OCR for jersey numbers, OSNet ReID and Hungarian assignment under uniqueness constraints.
+
+> 🎯 Kalman ball tracker cut p95 positional jump **556px → 21px**
+> 🎯 **15,830** assigned rows, **zero** constraint violations
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 [Parallel Image Filters](https://github.com/lapemaya/Parallel-Image-Filters)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+
+2D convolution implemented **three ways** — sequential, CPU-parallel and CUDA — with shared-memory tiling, constant memory, pinned transfers and compile-time kernel unrolling.
+
+> 🔥 Up to **439× speedup** over baseline
+> 🔥 Benchmarked from **800²** to **8000²** px
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 [CLAP — Cross-Language Analysis](https://github.com/Cappetti99/CLAP-Project)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+Automated execution and benchmarking of code across **15 programming languages** with real-time CO₂ tracking. Resilient pipeline with checkpointing, timeout handling and structured error logging.
+
+> 🌍 Energy efficiency compared **by paradigm**
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 [SM-CPTD — Cloud Scheduling](https://github.com/Cappetti99/stable-matching-game-theory)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
+Paper implementation: dynamic critical path ranking, **game-theoretic stable matching** for task-to-VM assignment, selective task duplication.
+
+> 📊 Ablation across **4 variants**
+> 📊 Up to **1000 tasks / 70 VMs** on Pegasus workflows
+
+</td>
+</tr>
+</table>
+
+**Also worth a look:**
+[![Network Security](https://img.shields.io/badge/🔐_Network_Security-1F3864?style=flat-square)](https://github.com/Cappetti99/Network-Security)
+[![Rights and Rules for AI](https://img.shields.io/badge/⚖️_Rights_and_Rules_for_AI-2E5FA3?style=flat-square)](https://github.com/Cappetti99/Rights-and-rules-for-artificial-intelligence)
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+**Machine Learning & Scientific Computing**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+**Tools & Environment**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Cappetti99&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7&hide=issues" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cappetti99&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9A7&layout=compact&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2E5FA3,100:1F3864&height=120&section=footer" width="100%" />
+
+</div>
