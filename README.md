@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,50:2E5FA3,100:00C9A7&height=200&section=header&text=Lorenzo%20Cappetti&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Vision%20%26%20Machine%20Learning%20Engineer&descAlignY=55&descSize=18" width="100%" />
+# Lorenzo Cappetti
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Deep+Learning+%26+Computer+Vision;Multi-Object+Tracking+%26+Re-Identification;GPU-Accelerated+Computing+with+CUDA;Turning+broadcast+video+into+data" alt="Typing SVG" />
+### Computer Vision & Machine Learning Engineer
 
-<br/>
+**Deep Learning · Multi-Object Tracking · GPU-Accelerated Computing**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-cappetti-59231a357/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cappettilorenzo@gmail.com)
@@ -139,11 +139,5 @@ Paper implementation: dynamic critical path ranking, **game-theoretic stable mat
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cappetti99&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7&hide=issues" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cappetti99&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9A7&layout=compact&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2E5FA3,100:1F3864&height=120&section=footer" width="100%" />
 
 </div>
